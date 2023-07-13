@@ -4,8 +4,6 @@
 # FCI in Julia
 Adapted from PySCF https://github.com/pyscf/pyscf/blob/master/pyscf/fci/fci_slow.py
 
-TODO : fix Davidson (convergence criteria of higher roots)
-
               
     
 
